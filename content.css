@@ -1,0 +1,129 @@
+* {
+    box-sizing: border-box;
+    padding: 0px;
+    margin: 0px;
+    scroll-behavior: smooth;
+}
+
+.section1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+.image1 img {
+    height: 100px;
+    width: 100px;
+    margin-right: 300px;
+}
+
+.gov1 h3 {
+    text-align: center;
+    color: rgb(65, 17, 179);
+}
+
+.gov1 h2 {
+    text-align: center;
+    color: rgb(27, 24, 178);
+}
+
+.image2 img {
+    height: 100px;
+    width: 100px;
+    margin-left: 300px;
+}
+
+.tag1 {
+    height: 50px;
+    width: 100%;
+    background-color: rgb(66, 66, 208);
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+}
+
+.tag1 a {
+    border-right: 1px solid white;
+    padding: 0px 10px;
+    color: white;
+
+}
+
+.gov2 h4 {
+    margin-left: 1000px;
+}
+
+.ss {
+    width: 1350px;
+    height: 200px;
+    background-color: rgb(21, 21, 153);
+    margin-top: 50px;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+}
+
+.se {
+    width: 1350px;
+    height: 400px;
+    background-color: rgb(197, 204, 215);
+    border-bottom-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+
+}
+
+.ss p {
+    color: white;
+    font-size: 29px;
+    text-align: center;
+    padding-top: 80px;
+}
+
+.se p {
+    color: black;
+    font-size: 26px;
+    text-align: center;
+    padding-top: 50px;
+
+}
+
+.dow {
+    height: 90px;
+    width: 100%;
+    background-color: rgb(68, 68, 195);
+    color: white;
+    display: flex;
+    align-items: center;
+    margin-top: 40px;
+}
+
+.design {
+    margin-left: 700px;
+    margin-top: -60px;
+    color: white;
+    display: flex;
+    align-items: center;
+    text-align: center;
+}
+
+.img img {
+    height: 70px;
+    width: 180px;
+    margin-left: 1200px;
+    margin-top: -60px;
+}
+
+.shadow {
+    box-shadow: 0px 0px 10px 5px rgba(0, 0, 0, 0.5);
+    margin-left: 90px;
+    width: 89%;
+    border-radius: 20px;
+}
+
+
+
+
+

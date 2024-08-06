@@ -1,0 +1,125 @@
+* {
+    box-sizing: border-box;
+        padding: 0px;
+        margin: 0px;
+        scroll-behavior: smooth;
+    }
+    
+    .section1 {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    
+    
+    
+    .image1 img {
+        height: 100px;
+        width: 100px;
+        margin-right: 300px;
+    }
+    
+    .gov1 h3 {
+        text-align: center;
+        color: rgb(65, 17, 179);
+    }
+    
+    .gov1 h2 {
+        text-align: center;
+        color: rgb(27, 24, 178);
+    }
+    
+    .image2 img {
+        height: 100px;
+        width: 100px;
+        margin-left: 300px;
+    }
+    
+    .tag1
+    {
+    height: 50px;
+    width: 100%;
+    background-color: rgb(66, 66, 208);
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+    }
+    
+    .tag1 a
+    {
+    border-right: 1px solid white;
+    padding: 0px 10px;
+    color: white;
+    
+    }
+    
+    .gov2 h4
+    {
+     margin-left: 1000px;
+    }
+    .box0
+    {
+     height: 500px;
+    width: 1400px;
+    background-color: grey;
+    margin-left: -10px;
+    border-radius: 30px;
+    margin-top: 30px;
+    }
+    .box0 h4{
+      font-size: 30px;
+      padding-top: 50px;
+      
+    }
+    .box0 p{
+        font-size: 25px;
+        margin-top: 30px;
+    }
+    .box0 input{
+        height: 30px;
+        width: 300px;
+        border-radius: 20px;
+        margin-top: 20px;
+    }
+    .but button{
+        margin-top: 20px;
+        color: white;
+        background-color: green;
+        border-radius: 20px;
+        height: 35px;
+        width: 200px;
+        }
+    .dow
+    {
+       height: 90px;
+        width: 100%;
+        background-color: rgb(68, 68, 195);
+        color: white;
+        display: flex;
+        align-items: center;
+        margin-top: 50px;
+    }
+    
+    .design {
+        margin-left: 700px;
+        margin-top: -60px;
+        color: white;
+        display: flex;
+        align-items: center;
+        text-align: center;
+    }
+    
+    .img img {
+        height: 70px;
+        width: 180px;
+        margin-left: 1200px;
+        margin-top: -60px;
+    }
+    
+
+
+
+
+

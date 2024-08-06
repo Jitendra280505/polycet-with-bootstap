@@ -1,0 +1,322 @@
+* {
+box-sizing: border-box;
+    padding: 0px;
+    margin: 0px;
+    scroll-behavior: smooth;
+}
+
+.section1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+.image1 img {
+    height: 100px;
+    width: 100px;
+    margin-right: 300px;
+}
+
+.gov1 h3 {
+    text-align: center;
+    color: rgb(65, 17, 179);
+}
+
+.gov1 h2 {
+    text-align: center;
+    color: rgb(27, 24, 178);
+}
+
+.image2 img {
+    height: 100px;
+    width: 100px;
+    margin-left: 300px;
+}
+
+.tag1
+{
+height: 50px;
+width: 100%;
+background-color: rgb(66, 66, 208);
+color: white;
+display: flex;
+justify-content: center;
+align-items: center;
+margin-top: 10px;
+}
+
+.tag1 a
+{
+border-right: 1px solid white;
+padding: 0px 10px;
+color: white;
+
+}
+
+.gov2 h4
+{
+ margin-left: 1000px;
+}
+
+.tag2 h3
+{
+height: 30px;
+width: 100%;
+background-color: rgb(56, 56, 201);
+color: white;
+display: flex;
+justify-content: center;
+align-items: center;
+margin-top: 10px;
+}
+
+.tag3 p
+{
+height: 150px;
+width: 100%;
+background-color: rgb(56, 56, 201);
+color: white;
+display: flex;
+justify-content: center;
+align-items: center;
+
+}
+    .box1
+    {
+        height: 250px;
+        width: 400px;
+        margin-left: 15px;
+        background-color: whitesmoke;
+        border: 2px solid;
+        border-color: black;
+        border-radius: 20px;
+        margin-top: -30px;
+    }
+
+    .down
+{
+    height: 30px;
+    width: 320px;
+    color: white;
+    background-color: green;
+    display: flex;
+    
+    align-items: center;
+    margin-left: 40px;
+    margin-top: 20px;
+    border-radius: 20px;
+}
+
+.down b
+{
+margin-left: 15px;
+}
+
+.boxq
+{
+margin-top: -170px;
+margin-left: 40px;
+}
+.boxq ul li{
+    list-style: none;
+}
+
+.box2
+{
+height: 250px;
+width: 600px;
+margin-left: 450px;
+background-color: whitesmoke;
+border-color: black;
+border-radius: 20px;
+margin-top: -230px;
+border: 2px solid;
+margin-bottom: 200px;
+}
+
+.imp
+{
+height: 30px;
+width: 520px;
+color: white;
+background-color: green;
+display: flex;
+align-items: center;
+margin-left: 40px;
+margin-top: 20px;
+border-radius: 20px;
+}
+
+.imp b
+{
+    margin-left: 15px;
+}
+.boxw
+{
+    margin-left: 500px;
+    margin-top: -370px;
+}
+.box3
+{
+height: 240px;
+width: 400px;
+margin-left: 1100px;
+background-color: whitesmoke;
+border-color: black;
+border-radius: 20px;
+margin-top: -240px;
+border: 2px solid;
+}
+.imp2
+{
+height: 29px;
+width: 350px;
+color: white;
+background-color: green;
+display: flex;
+align-items: center;
+margin-top: 20px;
+margin-left: 20px;
+border-radius: 20px;
+}
+.imp2 b
+{
+    margin-left: 15px;
+}
+.boxe
+{
+    margin-left: 1150px;
+    margin-top: -170px;
+}
+.box4
+{
+height: 240px;
+width: 400px;
+background-color: whitesmoke;
+border-color: black;
+border-radius: 20px;
+margin-top: 80px;
+border: 2px solid;
+margin-left: 100px;
+}
+.imp3
+{
+height: 29px;
+width: 350px;
+color: white;
+background-color: green;
+display: flex;
+margin-top: 20px;
+margin-left: 20px;
+border-radius: 20px;
+align-items: center;
+}
+.imp3 b
+{
+    margin-left: 15px;
+}
+.boxr
+{
+    margin-top: -150px;
+    margin-left: 140px;
+}
+.box5
+{
+height: 240px;
+width: 400px;
+background-color: whitesmoke;
+border-color: black;
+border-radius: 20px;
+margin-top: -200px;
+border: 2px solid;
+margin-left: 550px;
+}
+.imp4
+{
+    height: 29px;
+    width: 350px;
+    color: white;
+    background-color: green;
+    margin-top: 20px;
+    margin-left: 20px;
+    border-radius: 20px;
+    align-items: center;
+    display: flex;
+}
+.imp4 b
+{
+    margin-left: 15px;
+}
+.boxt
+{
+    margin-top: -170px;
+    margin-left: 580px;
+}
+.box6
+{
+    height: 240px;
+    width: 500px;
+    background-color: whitesmoke;
+    border-color: black;
+    border-radius: 20px;
+    margin-top: -215px;
+    border: 2px solid;
+    margin-left: 1000px;
+}
+.imp5
+{
+    height: 29px;
+    width: 350px;
+    color: white;
+    background-color: green;
+    margin-top: 20px;
+    margin-left: 20px;
+    border-radius: 20px;
+    align-items: center;
+    display: flex;
+}
+.imp5 b
+{
+    margin-left: 20px;
+}
+.boxy
+{
+    margin-top: -160px;
+    margin-left: 1030px;
+}
+
+.dow
+{
+   height: 90px;
+    width: 100%;
+    background-color: rgb(68, 68, 195);
+    color: white;
+    display: flex;
+    align-items: center;
+}
+
+.design {
+    margin-left: 700px;
+    margin-top: -60px;
+    color: white;
+    display: flex;
+    align-items: center;
+    text-align: center;
+}
+
+.img img {
+    height: 70px;
+    width: 180px;
+    margin-left: 1200px;
+    margin-top: -60px;
+}
+
+
+
+
+
+
+
+
